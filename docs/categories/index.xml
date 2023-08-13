@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 0shiguang book</title>
-    <link>http://0shiguang.github.io/book/categories/</link>
+    <link>http://0shiguang.github.io/categories/</link>
     <description>Recent content in Categories on 0shiguang book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="http://0shiguang.github.io/book/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en_US</language><atom:link href="http://0shiguang.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
