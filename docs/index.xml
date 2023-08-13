@@ -2,28 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0shiguang book</title>
-    <link>http://0shiguang.github.io/</link>
+    <link>http://0shiguang.github.io/book/</link>
     <description>Recent content on 0shiguang book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 Aug 2023 11:05:33 +0800</lastBuildDate><atom:link href="http://0shiguang.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://0shiguang.github.io/about/</link>
-      <pubDate>Sun, 13 Aug 2023 11:05:52 +0800</pubDate>
-      
-      <guid>http://0shiguang.github.io/about/</guid>
-      <description>正文内容</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://0shiguang.github.io/post/first/</link>
-      <pubDate>Sun, 13 Aug 2023 11:05:33 +0800</pubDate>
-      
-      <guid>http://0shiguang.github.io/post/first/</guid>
-      <description>Hello Hugo aaa bbb ccc </description>
-    </item>
-    
+    <language>zh-CN</language><atom:link href="http://0shiguang.github.io/book/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
