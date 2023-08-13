@@ -1,4 +1,4 @@
-baseURL = 'http://0shiguang.github.io/'
+baseURL = 'http://0shiguang.github.io/book/'
 languageCode = 'zh-CN'
 title = '0shiguang book'
 publishdir= "docs"
