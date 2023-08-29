@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 0shiguang book</title>
+    <link>http://0shiguang.github.io/book/post/</link>
+    <description>Recent content in Posts on 0shiguang book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en_US</language>
+    <lastBuildDate>Sun, 13 Aug 2023 11:05:33 +0800</lastBuildDate><atom:link href="http://0shiguang.github.io/book/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://0shiguang.github.io/book/post/first/</link>
+      <pubDate>Sun, 13 Aug 2023 11:05:33 +0800</pubDate>
+      
+      <guid>http://0shiguang.github.io/book/post/first/</guid>
+      <description>Hello Hugo aaa bbb ccc </description>
+    </item>
+    
+  </channel>
+</rss>
